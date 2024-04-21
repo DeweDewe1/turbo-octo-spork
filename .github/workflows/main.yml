@@ -14,8 +14,8 @@ permissions:
   contents: write # Grants permissions to write to the repo
 
 env:
-  GIT_USER_EMAIL: githubstr4@gmail.com
-  GIT_USER_NAME: allixina
+  GIT_USER_EMAIL: deswayek@gmail.com
+  GIT_USER_NAME: dewedewe1
 
 jobs:
   ethereum_auto_commit:
